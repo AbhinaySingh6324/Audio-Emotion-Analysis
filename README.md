@@ -65,7 +65,7 @@ After tuning the model, tested it out by predicting the emotions for the test da
 <br>
 ![](images/q3.jpeg?raw=true)
 <br>
-![](images/q4.jpeg?raw=true)
+![](images/q4.png?raw=true)
 <br>
 
 ## Testing out with live voices.
