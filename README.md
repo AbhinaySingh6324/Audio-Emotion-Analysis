@@ -6,9 +6,7 @@
 This can be used by multiple industries to offer different services like marketing company suggesting you to buy products based on your emotions, automotive industry can detect the persons emotions and adjust the speed of autonomous cars as required to avoid any collisions etc.
 
 ## Analyzing audio signals
-![](images/joomla_speech_prosody.png?raw=true)
 
-[©Fabien_Ringeval_PhD_Thesis](https://drive.google.com/file/d/0B2V_I9XKBODhcEtZV1lRWW1fYTg/view).
 <br>
 
 ### Datasets:
@@ -65,7 +63,9 @@ Building and tuning a model is a very time consuming process. The idea is to alw
 After tuning the model, tested it out by predicting the emotions for the test data. For a model with the given accuracy these are a sample of the actual vs predicted values.
 <br>
 <br>
-![](images/predict.png?raw=true)
+![](images/q3.jpeg?raw=true)
+<br>
+![](images/q4.jpeg?raw=true)
 <br>
 
 ## Testing out with live voices.
