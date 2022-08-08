@@ -55,7 +55,7 @@ Since the project is a classification problem, **Convolution Neural Network** se
 Building and tuning a model is a very time consuming process. The idea is to always start small without adding too many layers just for the sake of making it complex. After testing out with layers, the model which gave the max validation accuracy against test data was little more than 70%
 <br>
 <br>
-![](images/cnn.png?raw=true)
+![](images/q1.png?raw=true)
 <br>
 
 ## Predictions
